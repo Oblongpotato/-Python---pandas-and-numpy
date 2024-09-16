@@ -1,6 +1,4 @@
-Greetings fellow earthling
-
-Lets Conduct CRUD operations on a csv file using python
+Python code to conduct CRUD operations on a csv file.
 In order to run this code I would recommend you to instal python and jupyter notebook in your system and open it by typing the command in your command terminal 'python -m notebook'
 
 After the jupyternotebook is open, add the two files in it
